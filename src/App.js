@@ -114,7 +114,7 @@ const Footer = () => (
   <footer className="bg-emerald-950 text-stone-200 py-12 mt-20">
     <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-3 gap-8">
       <div>
-        <h3 className="font-serif text-2xl mb-4 text-rose-200">Knot & Bloom</h3>
+        <h3 className="font-serif text-2xl mb-4 text-rose-200">The Knit Basket</h3>
         <p className="text-stone-400 font-light leading-relaxed">
           Handcrafted with patience, love, and the finest yarn. 
           Every loop tells a story, every stitch holds a memory.
@@ -136,7 +136,7 @@ const Footer = () => (
             </a>
             {/* Add other icons */}
           </div>
-        <p className="mt-4 text-stone-500 text-sm">© 2025 Knot & Bloom. Made with React.</p>
+        <p className="mt-4 text-stone-500 text-sm">© 2025 The Knit Basket.</p>
       </div>
     </div>
   </footer>
